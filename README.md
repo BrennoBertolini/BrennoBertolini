@@ -50,7 +50,6 @@ Atuar na área de tecnologia aplicando meus conhecimentos, aprendendo com profis
 
 📍 São Paulo – Brasil  
 
-![Snake animation](https://github.com/BrennoBertolini/BrennoBertolini/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/BrennoBertolini/BrennoBertolini/output/github-contribution-grid-snake.svg)
 
 
