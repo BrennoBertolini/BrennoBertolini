@@ -2,13 +2,12 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Roda a cada 12 horas
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: Platane/snk@master
         with:
