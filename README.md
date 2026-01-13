@@ -50,5 +50,8 @@ Atuar na área de tecnologia aplicando meus conhecimentos, aprendendo com profis
 
 📍 São Paulo – Brasil  
 
+---
+📍 São Paulo – Brasil  
+
 ## 🐍 Snake Game
 ![Snake animation](https://raw.githubusercontent.com/BrennoBertolini/BrennoBertolini/output/github-contribution-grid-snake.svg)
